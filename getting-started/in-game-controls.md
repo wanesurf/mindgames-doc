@@ -8,4 +8,8 @@ Once you’ve finished writing, editing, or importing your content, you can publ
 
 You can publish your site and find related settings from your docs site's homepage.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-21 at 1.13.17 AM.png" alt="" width="198"><figcaption></figcaption></figure>
+
+</div>
