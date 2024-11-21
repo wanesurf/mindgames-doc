@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [How to play?](getting-started/quickstart.md)
-* [In-Game Controls](getting-started/publish-your-docs.md)
+* [How to play?](getting-started/how-to-play.md)
+* [In-Game Controls](getting-started/in-game-controls.md)
 
 ## Basics
 

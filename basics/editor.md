@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: game-console-handheld
 ---
 
 # Games

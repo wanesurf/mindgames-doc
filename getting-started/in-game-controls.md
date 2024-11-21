@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: gamepad-modern
 ---
 
 # In-Game Controls

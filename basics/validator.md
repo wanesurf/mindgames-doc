@@ -1,5 +1,5 @@
 ---
-icon: hand-pointer
+icon: user-check
 ---
 
 # Validator

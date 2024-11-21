@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: hexagon-vertical-nft-slanted
 ---
 
 # NFTs

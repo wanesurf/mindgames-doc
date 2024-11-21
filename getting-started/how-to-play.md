@@ -1,5 +1,5 @@
 ---
-icon: bullseye-arrow
+icon: space-awesome
 ---
 
 # How to play?

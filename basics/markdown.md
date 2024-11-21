@@ -1,5 +1,5 @@
 ---
-icon: markdown
+icon: wallet
 ---
 
 # Wallet
