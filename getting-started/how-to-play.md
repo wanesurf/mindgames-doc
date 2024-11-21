@@ -4,24 +4,22 @@ icon: space-awesome
 
 # How to play?
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
-
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Open the [telegram bot ](https://t.me/BlockchainGamesBot)
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
+Once you've done with onboarding, you will meet the main menu. In case it didn't happen, please send `/start` to the bot.
 {% endhint %}
 
-### Import
+### 1) Create your [wallet](../basics/markdown.md)&#x20;
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+On the first opening of the application, we will create a Coreum Wallet for you and give you the opportunity to export the private key (see the [Wallet section](../basics/markdown.md) for more information)
 
 <div data-full-width="false">
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-21 at 1.00.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
-### Sync a repository
+### 2) Sync a repository
 
 GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
