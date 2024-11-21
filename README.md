@@ -15,7 +15,9 @@ layout:
 
 # Welcome
 
-MindGames Labs is a groundbreakings GamiFi adventure set within Telegram's platform leveraging the Coreum blockchain.
+$MIND is first community-led gaming platform powered by the $MIND protocol.&#x20;
+
+Joinn a groundbreakings GamiFi adventure set within Telegram's platform leveraging the Coreum blockchain.
 
 <div align="left">
 

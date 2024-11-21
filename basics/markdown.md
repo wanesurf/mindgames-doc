@@ -1,10 +1,13 @@
 ---
 icon: wallet
+description: Trade safely
 ---
 
 # Wallet
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+Trade safely&#x20;
+
+Protected by Telegram's strong encryption and security features to keep your assets and transactions secure
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
 
