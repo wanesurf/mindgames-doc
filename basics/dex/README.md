@@ -8,3 +8,4 @@ coverY: 0
 
 The first permissionLess DEX on Coreum (that actually works)
 
+Everytime you stake $MIND we swap it for $COREUM and stake it to our validator. The un staking periode is 7 days

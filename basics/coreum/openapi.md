@@ -4,7 +4,7 @@ icon: laptop-binary
 
 # Smart Contracts
 
-You can sync GitBook pages with an OpenAPI or Swagger file or a URL to include auto-generated API methods in your documentation.
+All the games are represented on chain by smart contracts. Each game and transaction can be track and analysed.&#x20;
 
 ### OpenAPI block
 
